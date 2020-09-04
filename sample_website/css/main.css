@@ -1,0 +1,8 @@
+.nav-element{
+    color: rgb(43,21,21); 
+    font-weight: bolder;
+    text-decoration: none;
+}
+.nav-menu{
+    float: right;
+}
